@@ -1,0 +1,2 @@
+CaffeOnACL/models/bvlc_googlenet/bvlc_googlenet.caffemodel filter=lfs diff=lfs merge=lfs -text
+CaffeOnACL/models/bvlc_alexnet/bvlc_alexnet.caffemodel filter=lfs diff=lfs merge=lfs -text
